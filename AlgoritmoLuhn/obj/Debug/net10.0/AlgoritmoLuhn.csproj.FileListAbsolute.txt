@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\obj\Debug\net10.0\AlgoritmoLuhn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\obj\Debug\net10.0\AlgoritmoLuhn.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\obj\Debug\net10.0\AlgoritmoLuhn.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\obj\Debug\net10.0\AlgoritmoLuhn.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\bin\Debug\net10.0\AlgoritmoLuhn.exe
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\bin\Debug\net10.0\AlgoritmoLuhn.deps.json
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\bin\Debug\net10.0\AlgoritmoLuhn.runtimeconfig.json
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\bin\Debug\net10.0\AlgoritmoLuhn.dll
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\bin\Debug\net10.0\AlgoritmoLuhn.pdb
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\obj\Debug\net10.0\AlgoritmoLuhn.dll
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\obj\Debug\net10.0\refint\AlgoritmoLuhn.dll
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\obj\Debug\net10.0\AlgoritmoLuhn.pdb
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\obj\Debug\net10.0\AlgoritmoLuhn.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\AlgoritmoLuhn\obj\Debug\net10.0\ref\AlgoritmoLuhn.dll
