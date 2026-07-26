@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\obj\Debug\net10.0\SistemadeGestióndeTareas(POO).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\obj\Debug\net10.0\SistemadeGestióndeTareas(POO).AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\obj\Debug\net10.0\SistemadeGestióndeTareas(POO).AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\obj\Debug\net10.0\SistemadeGestióndeTareas(POO).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\obj\Debug\net10.0\SistemadeGestióndeTareas(POO).sourcelink.json
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\bin\Debug\net10.0\SistemadeGestióndeTareas(POO).exe
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\bin\Debug\net10.0\SistemadeGestióndeTareas(POO).deps.json
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\bin\Debug\net10.0\SistemadeGestióndeTareas(POO).runtimeconfig.json
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\bin\Debug\net10.0\SistemadeGestióndeTareas(POO).dll
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\bin\Debug\net10.0\SistemadeGestióndeTareas(POO).pdb
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\obj\Debug\net10.0\SistemadeGestióndeTareas(POO).dll
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\obj\Debug\net10.0\refint\SistemadeGestióndeTareas(POO).dll
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\obj\Debug\net10.0\SistemadeGestióndeTareas(POO).pdb
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\obj\Debug\net10.0\SistemadeGestióndeTareas(POO).genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Diplomado\SistemadeGestióndeTareas(POO)\obj\Debug\net10.0\ref\SistemadeGestióndeTareas(POO).dll

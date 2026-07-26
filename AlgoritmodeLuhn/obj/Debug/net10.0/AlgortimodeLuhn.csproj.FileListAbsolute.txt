@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\bin\Debug\net10.0\AlgortimodeLuhn.exe
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\bin\Debug\net10.0\AlgortimodeLuhn.deps.json
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\bin\Debug\net10.0\AlgortimodeLuhn.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\bin\Debug\net10.0\AlgortimodeLuhn.dll
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\bin\Debug\net10.0\AlgortimodeLuhn.pdb
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\obj\Debug\net10.0\AlgortimodeLuhn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\obj\Debug\net10.0\AlgortimodeLuhn.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\obj\Debug\net10.0\AlgortimodeLuhn.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\obj\Debug\net10.0\AlgortimodeLuhn.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\obj\Debug\net10.0\AlgortimodeLuhn.sourcelink.json
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\obj\Debug\net10.0\AlgortimodeLuhn.dll
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\obj\Debug\net10.0\refint\AlgortimodeLuhn.dll
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\obj\Debug\net10.0\AlgortimodeLuhn.pdb
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\obj\Debug\net10.0\AlgortimodeLuhn.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Diplomado\AlgortimodeLuhn\obj\Debug\net10.0\ref\AlgortimodeLuhn.dll
